@@ -1,0 +1,8 @@
+main: px.attribute.swap.PaperAttributeSwap
+version: 1.0.0
+name: PaperAttributeSwap
+author: pxotitas
+description: Bringing back Attribute Swap to papermc servers
+api-version: '26.2'
+
+

@@ -1,0 +1,27 @@
+en:
+  attribute-swapping:
+    enabled: "Vanilla equipment attribute timing restored for Paper 26.2.x."
+    disabled: "Attribute swapping restoration is disabled; Paper's configured equipment update behavior is unchanged."
+  compatibility:
+    failed: "Could not apply the Paper 26.2.x compatibility setting. Check the server version and console details."
+  plugin:
+    enabled: "Plugin enabled."
+    disabled: "Plugin disabled."
+es:
+  attribute-swapping:
+    enabled: "Se restauró el momento de actualización de atributos del equipo vanilla para Paper 26.2.x."
+    disabled: "La restauración del intercambio de atributos está desactivada; el comportamiento configurado de Paper no se ha modificado."
+  compatibility:
+    failed: "No se pudo aplicar la compatibilidad con Paper 26.2.x. Comprueba la versión del servidor y los detalles de la consola."
+  plugin:
+    enabled: "Plugin activado."
+    disabled: "Plugin desactivado."
+pt:
+  attribute-swapping:
+    enabled: "Tempo de atualização de atributos de equipamento vanilla restaurado para Paper 26.2.x."
+    disabled: "A restauração de troca de atributos está desativada; o comportamento de atualização de equipamento configurado no Paper não foi alterado."
+  compatibility:
+    failed: "Não foi possível aplicar a compatibilidade com Paper 26.2.x. Confira a versão do servidor e os detalhes no console."
+  plugin:
+    enabled: "Plugin ativado."
+    disabled: "Plugin desativado."
